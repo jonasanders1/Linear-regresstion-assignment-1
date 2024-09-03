@@ -1,5 +1,5 @@
-# Create venv #
-`` `python -m venv <myname> ```
+## Create venv 
+``` python -m venv <myname> ```
 
 # Activate venv #
 ``` source myenv/bin/activate ```
