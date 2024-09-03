@@ -1,11 +1,12 @@
-## Create venv 
+# venv commands
+### Create venv 
 ``` python -m venv <myname> ```
 
-# Activate venv #
+### Activate venv 
 ``` source myenv/bin/activate ```
 
-# Generate requrements.txtc #
+### Generate requrements.txt
 ``` pip freeze > requirements.txt ```
 
-# Install requirements.txt #
+### Install requirements.txt
 ``` pip install -r requirements.txt ```
