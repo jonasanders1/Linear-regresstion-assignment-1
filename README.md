@@ -33,12 +33,12 @@ On Windows:
 On macOS/Linux:
 ``` source <env_name>/bin/activate ```
 
-4. Deactivate the Virtual Environment
+4. Deactivate the Virtual Environment \
 ``` deactivate ```
 
-5. Generate or Update requirements.txt
+5. Generate or Update requirements.txt \
 ``` pip freeze > requirements.txt ```
 
-6. Install Dependencies from requirements.txt
+6. Install Dependencies from requirements.txt \
 ``` pip install -r requirements.txt ```
 
