@@ -24,15 +24,20 @@ Before you start, ensure that you have Python installed on your system. You can 
 ## Virtual Environment Setup
 1.  Create a Virtual Environment
 ``` python -m venv <myname> ```
-2. Activate the Virtual Environment
+
+3. Activate the Virtual Environment
+
 On Windows:
 ``` <env_name>\Scripts\activate ```
 On macOS/Linux:
 ``` source <env_name>/bin/activate ```
-3. Deactivate the Virtual Environment
+
+4. Deactivate the Virtual Environment
 ``` deactivate ```
-4. Generate or Update requirements.txt
+
+5. Generate or Update requirements.txt
 ``` pip freeze > requirements.txt ```
-5. Install Dependencies from requirements.txt
+
+6. Install Dependencies from requirements.txt
 ``` pip install -r requirements.txt ```
 
