@@ -26,9 +26,10 @@ Before you start, ensure that you have Python installed on your system. You can 
 ``` python -m venv <myname> ```
 
 3. Activate the Virtual Environment
-
+\
 On Windows:
 ``` <env_name>\Scripts\activate ```
+\
 On macOS/Linux:
 ``` source <env_name>/bin/activate ```
 
