@@ -5,7 +5,7 @@
 ### Activate venv 
 ``` source myenv/bin/activate ```
 
-### Generate requrements.txt
+### Update or Generate requrements.txt
 ``` pip freeze > requirements.txt ```
 
 ### Install requirements.txt
