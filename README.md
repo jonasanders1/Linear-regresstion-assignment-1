@@ -6,9 +6,6 @@ I have used VS Code as the IDE combined with the Jupyter extension (From Microso
 
 - [Installation](#installation)
 - [Virtual Environment Setup](#virtual-environment-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
